@@ -1,9 +1,9 @@
-#**Stock Price Prediction Model**
-**Overview**
+#Stock Price Prediction Model
+##Overview
 
 This project is a linear regression model designed to predict the closing price of a stock based on various financial metrics. The model utilizes historical stock data, including the opening price, highest and lowest prices of the day, trading volume, and turnover, to forecast the closing price.
 
-**Features**
+##Features
 Open: The stock's opening price for the day.
 High: The highest price reached during the day.
 Low: The lowest price reached during the day.
