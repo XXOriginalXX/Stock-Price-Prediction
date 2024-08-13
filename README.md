@@ -32,3 +32,4 @@ Financial Research: Useful for academic and professional research in finance and
 - pandas
 - scikit-learn
 - numpy
+**⚠️ Warning:** The dataset used in this project was obtained from Kaggle. Please note that I do not guarantee the correctness, completeness, or accuracy of the dataset. Use the data at your own risk.
